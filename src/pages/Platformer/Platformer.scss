@@ -1,0 +1,57 @@
+.g-platformer {
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+        position: relative;
+}
+#game,.game{
+        height: 100%;
+}
+
+.game {
+        overflow: hidden;
+        max-width: 100%;
+        max-height: 100%;
+        position: relative;
+}
+
+.background {
+        background: url('../../assets/tiles/background/sea.png'), url('../../assets/tiles/background/clouds.png'), url('../../assets/tiles/background/sky.png');
+        background-position: left bottom, left 35%, top left;
+        background-size: auto 50%, auto 50%, auto 100%;
+        background-repeat: repeat-x;
+        table-layout: fixed;
+        border-spacing: 0;
+}
+
+.background td {
+        padding: 0;
+}
+
+.lava {
+        background: rgb(255, 100, 100);
+}
+
+.wall {
+        background: white;
+}
+
+.actor {
+        position: absolute;
+}
+
+.coin {
+        background: rgb(241, 229, 89);
+}
+
+.player {
+        background: rgb(64, 64, 64);
+}
+
+.lost .player {
+        background: rgb(160, 64, 64);
+}
+
+.won .player {
+        box-shadow: -4px -7px 8px white, 4px -7px 8px white;
+}
