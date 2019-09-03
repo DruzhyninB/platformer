@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/platformer/static/css/main.1acd1a87.chunk.css",
+    "main.js": "/platformer/static/js/main.f7b1a19d.chunk.js",
+    "main.js.map": "/platformer/static/js/main.f7b1a19d.chunk.js.map",
+    "runtime~main.js": "/platformer/static/js/runtime~main.c69ca47e.js",
+    "runtime~main.js.map": "/platformer/static/js/runtime~main.c69ca47e.js.map",
+    "static/css/2.5a7e7f24.chunk.css": "/platformer/static/css/2.5a7e7f24.chunk.css",
+    "static/js/2.b1fd4e50.chunk.js": "/platformer/static/js/2.b1fd4e50.chunk.js",
+    "static/js/2.b1fd4e50.chunk.js.map": "/platformer/static/js/2.b1fd4e50.chunk.js.map",
+    "index.html": "/platformer/index.html",
+    "precache-manifest.b02b83d54aec432f4690394950bb7f9b.js": "/platformer/precache-manifest.b02b83d54aec432f4690394950bb7f9b.js",
+    "service-worker.js": "/platformer/service-worker.js",
+    "static/css/2.5a7e7f24.chunk.css.map": "/platformer/static/css/2.5a7e7f24.chunk.css.map",
+    "static/css/main.1acd1a87.chunk.css.map": "/platformer/static/css/main.1acd1a87.chunk.css.map"
+  }
+}
